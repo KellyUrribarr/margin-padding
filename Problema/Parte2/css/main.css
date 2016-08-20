@@ -1,0 +1,47 @@
+div {
+        margin-bottom: 8px;
+    }
+    
+.uno {
+        width: 200px;
+		border:1px solid;
+		border-color: #DD7B07;
+		padding-top: 4px;
+        padding-left: 10px;
+        padding-bottom: 20px;
+        padding-right: 10px;
+        background-color: #FFFFFF;
+        border-width: 2px;
+        margin-left: 10px;
+    
+    }
+
+
+.dos {
+        width: 200px;
+        border:1px solid;
+        border-color: #DD7B07;
+        padding-top: 4px;
+        padding-left: 10px;
+        padding-bottom: 20px;
+        padding-right: 10px;
+        background-color: #FFFFFF;
+        border-width: 2px;
+        margin-left: 10px;
+    
+    }
+
+.tres {
+
+        width: 200px;
+        border:1px solid;
+        border-color: #DD7B07;
+        padding-top: 4px;
+        padding-left: 10px;
+        padding-bottom: 20px;
+        padding-right: 10px;
+        background-color: #FFFFFF;
+        border-width: 2px;
+        margin-left: 10px;
+    }
+
